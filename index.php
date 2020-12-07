@@ -1,6 +1,6 @@
 <?php
 
-include_once("grad.html");
+include_once("grad-intro.html");
 
 
 
